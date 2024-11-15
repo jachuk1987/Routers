@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
     <Routes>
-      <Route path='/' element={<HeaderTop/>}/>
+      <Route path='/' element={""}/>
       <Route path='/works' element={<Works/>}/>
       <Route path='/explore' element={<ExploreSection/>}/>
       <Route path='/review' element={<Reviews/>}/><Route path='/' element={<HeaderTop/>}/>
